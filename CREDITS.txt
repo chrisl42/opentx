@@ -2687,3 +2687,5 @@ Wolfgang Bellen
 Stefan Lohmann
 Martin Waldvogel
 Udo Mayr
+Harald Boeley
+Valerie Lavergne
